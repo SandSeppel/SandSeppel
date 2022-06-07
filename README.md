@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning GODOT and Python (lol)
 - 📫 Email: de.contain@outlook.com
 
-Im just someone, who likes writing issues and cant speak or write good english, because he is german.
+Im just someone, who likes to code stuff and who cant speak or write good english, because he is german.
