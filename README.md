@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TheContainer
-- 👀 I’m interested in GODOT and Python (and Im trying to build a redstone pc in minecraft)
+- 👀 I’m interested in GODOT and Python
 - 🌱 I’m currently learning GODOT and Python (lol)
 - 📫 Email: de.contain@outlook.com
 
