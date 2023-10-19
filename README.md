@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TheContainer
-- 👀 I’m interested in GODOT and Python
+- 👀 I’m interested in GODOT, Python and Blender
 - 🌱 I’m currently learning GODOT and Python
 - 📫 Email: de.contain@outlook.com
 
