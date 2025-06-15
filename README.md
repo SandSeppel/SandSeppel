@@ -1,5 +1,5 @@
 # About Me:
-Currently working on a discord bot template<br>with nextcord
+Some random guy tbh 
 
 
 ## Socials:
