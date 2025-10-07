@@ -5,7 +5,7 @@ Some random guy tbh
 ## Socials:
 [![Linktree](https://img.shields.io/badge/Linktree-%53E4105F.svg?logo=Linktree&logoColor=white)](https://linktr.ee/sandseppel) 
 
-# Tech Stack:
+## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -20,9 +20,7 @@ Some random guy tbh
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandSeppel&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandSeppel&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
+
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SandSeppel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
