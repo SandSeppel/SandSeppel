@@ -19,8 +19,3 @@ Some random guy tbh
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-
-
-
-## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=SandSeppel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
