@@ -1,5 +1,4 @@
-.# About Me:
-Some random guy tbh 
+No noteworthy qualifications
 
 
 ## Socials:
